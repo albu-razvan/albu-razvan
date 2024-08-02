@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there :wave:
 
-<!--
-**albu-razvan/albu-razvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+    I'm Razvan Albu - GU Software Engineering and Management student. 
+  <br/>
+    Playing the guitar and working on Stario in my free time :relaxed:
+  </samp>
+</p>
 
-Here are some ideas to get you started:
+## Contact me :speech_balloon:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Get in touch with me!
+
+:bird: <a href="https://twitter.com/razvan_albu_">Chat with me on Twitter</a> (Yes, I am still calling it that)
+
+:e-mail: <a href="mailto:mail@razvan-albu@hotmail.com">Send an e-mail</a>
+
+:globe_with_meridians: <a href="https://razvanalbu.com">Checkout my website</a>
