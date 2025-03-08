@@ -1,17 +1,7 @@
 # Hi there :wave:
 
-<p align="center">
-  <samp>
-    I'm Rǎzvan - GU Software Engineering and Management student. 
-  <br/>
-    Enjoying music or working on Stario in my free time.
-  </samp>
+<p>
+    I'm Rǎzvan - GU Software Engineering and Management student
 </p>
 
-## Contact me :speech_balloon:
-
-Get in touch with me!
-
-:e-mail: <a href="mailto:mail@contact@razvanalbu.com">Send an e-mail</a>
-
-:globe_with_meridians: <a href="https://razvanalbu.com">Checkout my website</a>
+![Razvan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=albu-razvan&show_icons=true&theme=dark#gh-dark-mode-only)
