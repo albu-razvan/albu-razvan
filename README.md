@@ -2,7 +2,7 @@
 <div id="user-content-toc" style="list-style: none;">
     <ul>
         <summary>
-            <h1>Hellooo, I'm Răzvan <img src="https://github.com/user-attachments/assets/4e05cb5b-5bee-45bf-8f7b-2fbf2f2c2f8c#gh-dark-mode-only" height=24> <img src="https://github.com/user-attachments/assets/e8b15061-7f7c-4ac8-8eee-dd600804e42c#gh-light-mode-only" height=24></h1>
+            <h1>Hellooo, I'm Răzvan <img src="https://github.com/user-attachments/assets/4e05cb5b-5bee-45bf-8f7b-2fbf2f2c2f8c#gh-dark-mode-only" height=24><img src="https://github.com/user-attachments/assets/e8b15061-7f7c-4ac8-8eee-dd600804e42c#gh-light-mode-only" height=24></h1>
         </summary>
     </ul>
 </div>
